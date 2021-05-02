@@ -1,0 +1,13 @@
+The European Organization for Nuclear Research, is a European research organization that operates the largest particle physics laboratory in the world. Established in 1954, the organization is based in a northwest suburb of Geneva on the Franco–Swiss border and has 22 member states. Israel is the only non-European country granted full membership. CERN is an official United Nations Observer.
+
+The term CERN is also used to refer to the laboratory, which in 2016 had 2,500 scientific, technical, and administrative staff members, and hosted about 12,000 users. In the same year, CERN generated 49 petabytes of data.
+
+CERN's main function is to provide the particle accelerators and other infrastructure needed for high-energy physics research – as a result, numerous experiments have been constructed at CERN through international collaborations. The main site at Meyrin hosts a large computing facility, which is primarily used to store and analyse data from experiments, as well as simulate events. Researchers need remote access to these facilities, so the lab has historically been a major wide area network hub. CERN is also the birthplace of the World Wide Web.
+
+The World Wide Web began as a CERN project named ENQUIRE, initiated by Tim Berners-Lee in 1989 and Robert Cailliau in 1990. Berners-Lee and Cailliau were jointly honoured by the Association for Computing Machinery in 1995 for their contributions to the development of the World Wide Web.
+
+Based on the concept of hypertext, the project was intended to facilitate the sharing of information between researchers. The first website was activated in 1991. On 30 April 1993, CERN announced that the World Wide Web would be free to anyone. A copy of the original first webpage, created by Berners-Lee, is still published on the World Wide Web Consortium's website as a historical document.
+
+Prior to the Web's development, CERN had pioneered the introduction of Internet technology, beginning in the early 1980s.
+
+More recently, CERN has become a facility for the development of grid computing, hosting projects including the Enabling Grids for E-sciencE (EGEE) and LHC Computing Grid. It also hosts the CERN Internet Exchange Point (CIXP), one of the two main internet exchange points in Switzerland.
